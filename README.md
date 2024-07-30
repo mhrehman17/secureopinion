@@ -1,6 +1,5 @@
 <div align="center">
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>SecureOpinion</h1>
   <p>
     We're building a user-centric, fully decentralised, secure, privacy-preserving, and openly accessible opinion sharing platform. 
   </p>  
