@@ -187,7 +187,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone https://github.com/mhrehman17/secureopinion.git
 ```
 
 Go to the project directory
@@ -243,8 +243,8 @@ function App() {
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+<a href="https://github.com/mhrehman17/secureopinion/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mhrehman17/secureopinion" />
 </a>
 
 
@@ -256,7 +256,7 @@ See `contributing.md` for ways to get started.
 <!-- Code of Conduct -->
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/mhrehman17/secureopinion/blob/master/CODE_OF_CONDUCT.md)
 
 <!-- FAQ -->
 ## :grey_question: FAQ
@@ -279,9 +279,9 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@habibcomsats](https://twitter.com/habibcomsats) - contact@innobox.co.uk
 
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+Project Link: [https://github.com/mhrehman17/secureopinion](https://github.com/mhrehman17/secureopinion)
 
 
 <!-- Acknowledgments -->
