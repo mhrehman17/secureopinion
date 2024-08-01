@@ -67,7 +67,7 @@
 <!-- About the Project -->
 ## :star2: About the Project
 
-Societies run with law, tolerance, and harmony. Fake opinions create chaos, anarchy, polarisation, disturbance, and marginalisation in the socities. We're building a blockchain-based, user-centred, and privacy-preserving opinion sharing platform to increae trust and exervise responsible freedom of speech on the internet. Join this revolution.
+Societies run with law, tolerance, and harmony. Fake opinions create chaos, anarchy, polarisation, disturbance, and marginalisation in the socities. We're building a blockchain-based, user-centred, and privacy-preserving opinion sharing platform to increae trust and exercise responsible freedom of speech on the internet. Join this revolution.
 
 
 
