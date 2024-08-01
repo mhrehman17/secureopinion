@@ -126,9 +126,9 @@
 <!-- Features -->
 ### :dart: Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- GDPR-compliant privacy-preserving platform
+- Blockchain-enabled user-centred design
+- AI-enabled content management
 
 <!-- Color Reference -->
 ### :art: Color Reference
