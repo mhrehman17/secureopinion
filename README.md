@@ -69,7 +69,7 @@
 
 
 <!-- Screenshots -->
-### :camera: Screenshots
+### :camera: Overview 
 
 <div align="center"> 
   <img src="assets/secureopinion.png" alt="screenshot" />
