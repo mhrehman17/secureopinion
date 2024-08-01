@@ -222,7 +222,7 @@ To deploy this project run
 <!-- Usage -->
 ## :eyes: Usage
 
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
+Societies run with law, tolerance, and harmony. Fake opinions create chaos, anarchy, polarisation, disturbance, and marginalisation in the socities. We're building a blockchain-based, user-centred, and privacy-preserving opinion sharing platform to increae trust and exervise responsible freedom of speech on the internet. Join this revolution. 
 
 
 ```javascript
@@ -236,8 +236,8 @@ function App() {
 <!-- Roadmap -->
 ## :compass: Roadmap
 
-* [x] Todo 1
-* [ ] Todo 2
+* [x] Requirement Gathering
+* [ ] Requirement Analysis and Design
 
 
 <!-- Contributing -->
@@ -259,7 +259,7 @@ See `contributing.md` for ways to get started.
 Please read the [Code of Conduct](https://github.com/mhrehman17/secureopinion/blob/master/CODE_OF_CONDUCT.md)
 
 <!-- FAQ -->
-## :grey_question: FAQ
+## :grey_question: FAQ (coming soon)
 
 - Question 1
 
@@ -279,7 +279,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@habibcomsats](https://twitter.com/habibcomsats) - contact@innobox.co.uk
+Habib Rehman - [@habibcomsats](https://twitter.com/habibcomsats) - contact@innobox.co.uk
 
 Project Link: [https://github.com/mhrehman17/secureopinion](https://github.com/mhrehman17/secureopinion)
 
@@ -287,10 +287,8 @@ Project Link: [https://github.com/mhrehman17/secureopinion](https://github.com/m
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
+We thank NGI TrustChain for supporting this project.
 
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
+What is the TrustChain Project? 
 
+TrustChain – Fostering a Human-centred, Trustworthy and Sustainable Internet is a 3-year project funded by the European Commission under the Horizon Europe Research and Innovation programme (GA 101093274), which aims to create a portfolio of Next Generation Internet protocols and an ecosystem of decentralised software solutions that reach the highest standards of humanity such as those chartered by the United Nations including the respect of human rights, ethics, sustainability, energy efficiency, our care for the environment and our respect for the World’s cultural history.
