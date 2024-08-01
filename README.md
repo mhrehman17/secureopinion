@@ -142,7 +142,7 @@
 
 
 <!-- Env Variables -->
-### :key: Environment Variables
+### :key: Environment Variables (coming soon)
 
 To run this project, you will need to add the following environment variables to your .env file
 
@@ -151,10 +151,10 @@ To run this project, you will need to add the following environment variables to
 `ANOTHER_API_KEY`
 
 <!-- Getting Started -->
-## 	:toolbox: Getting Started
+## 	:toolbox: Getting Started (coming soon)
 
 <!-- Prerequisites -->
-### :bangbang: Prerequisites
+### :bangbang: Prerequisites (coming soon)
 
 This project uses Yarn as package manager
 
@@ -163,7 +163,7 @@ This project uses Yarn as package manager
 ```
 
 <!-- Installation -->
-### :gear: Installation
+### :gear: Installation (coming soon)
 
 Install my-project with npm
 
@@ -173,7 +173,7 @@ Install my-project with npm
 ```
    
 <!-- Running Tests -->
-### :test_tube: Running Tests
+### :test_tube: Running Tests (coming soon)
 
 To run tests, run the following command
 
@@ -182,7 +182,7 @@ To run tests, run the following command
 ```
 
 <!-- Run Locally -->
-### :running: Run Locally
+### :running: Run Locally (coming soon)
 
 Clone the project
 
@@ -210,7 +210,7 @@ Start the server
 
 
 <!-- Deployment -->
-### :triangular_flag_on_post: Deployment
+### :triangular_flag_on_post: Deployment (coming soon)
 
 To deploy this project run
 
